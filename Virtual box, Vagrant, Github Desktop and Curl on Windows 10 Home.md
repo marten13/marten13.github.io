@@ -71,5 +71,6 @@ This is indeed not a problem.
 #Curl  
 Download and run the [Microsoft Visual C++ 2015 Redistributable.](https://www.microsoft.com/en-us/download/details.aspx?id=48145)  
 Download and run [Curl](http://www.confusedbycode.com/curl/#downloads), the admin version.  
-  
+RTFM: (https://curl.haxx.se/docs/manual.html)   
+   
 Enjoy curl!
